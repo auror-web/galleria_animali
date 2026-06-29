@@ -49,6 +49,10 @@ if __name__ == "__main__":
         print(" ", url)
     print("URL gatti:")
     for url in gatti:
+<<<<<<< HEAD
         print(" ", url)
 
         
+=======
+        print(" ", url)
+>>>>>>> feature/api
